@@ -1,0 +1,29 @@
+{
+    "name": "Commvault Security IQ",
+    "description": "## FILL MANDATORY FIELD ##",
+    "support": "partner",
+    "currentVersion": "1.0.0",
+    "author": "Commvault Systems",
+    "url": "",
+    "email": "jjindal@commvault.com",
+    "categories": [
+        "Data Enrichment & Threat Intelligence"
+    ],
+    "tags": [
+        "Threat Intelligence",
+        "Security IQ"
+    ],
+    "useCases": [],
+    "keywords": [],
+    "marketplaces": [
+        "xsoar",
+        "marketplacev2"
+    ],
+    "devEmail": [
+        "jjindal@commvault.com"
+    ],
+    "githubUser": [
+        "ashakya@commvault.com",
+        "adutt@commvault.com"
+    ]
+}
